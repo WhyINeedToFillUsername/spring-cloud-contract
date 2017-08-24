@@ -4,7 +4,6 @@ Stub Runner has the functionality to run the published stubs in memory. It can i
 
 - Spring Integration
 - Spring Cloud Stream
-- Apache Camel
 - Spring AMQP
 
 It also provides points of entry to integrate with any other solution on the market.
